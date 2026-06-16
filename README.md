@@ -53,7 +53,7 @@
 
 | Category | Technologies |
 |-----------|-------------|
-|  Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite"/> |
+|  Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,ts"/> |
 |  Backend | <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python,spring"/> |
 |  Database | <img src="https://skillicons.dev/icons?i=mysql"/> |
 |  Cloud & DevOps | <img src="https://skillicons.dev/icons?i=docker"/> |
