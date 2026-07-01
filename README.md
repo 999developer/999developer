@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://open.spotify.com/intl-es/artist/5K4W6rqBFWDnAN6FQUkS6x">
-<img width="600" src="https://github.com/user-attachments/assets/d92675a4-c3a1-4341-bbd3-0e75b5575a02"/>
+<img width="600" src="https://payload.cargocollective.com/1/5/178538/8045571/Kanye_03_o.gif"/>
 </a>
 
 <br><br>
