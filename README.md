@@ -168,11 +168,11 @@ Professional internship project focused on inventory control, stock management a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maruchandepollo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=999developer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maruchandepollo&layout=compact&langs_count=8&theme=algolia"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=999developer&layout=compact&langs_count=8&theme=algolia"/>
 
 </div>
 
