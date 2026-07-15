@@ -12,8 +12,8 @@
 
 <br><br>
 
-[![GitHub Followers](https://img.shields.io/github/followers/999developer?label=Followers&style=social)](https://github.com/maruchandepollo)
-[![GitHub Stars](https://img.shields.io/github/stars/999developerstyle=social)](https://github.com/maruchandepollo)
+[![GitHub Followers](https://img.shields.io/github/followers/999developer?label=Followers&style=social)](https://github.com/999developer)
+[![GitHub Stars](https://img.shields.io/github/stars/999developerstyle=social)](https://github.com/999developer)
 
 <br><br>
 
