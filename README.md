@@ -13,8 +13,7 @@
 <br><br>
 
 [![GitHub Followers](https://img.shields.io/github/followers/999developer?label=Followers&style=social)](https://github.com/999developer)
-[![GitHub Stars](https://img.shields.io/github/stars/999developerstyle=social)](https://github.com/999developer)
-
+[![GitHub Stars](https://img.shields.io/github/stars/999developer/999developer?style=social)](https://github.com/999developer/999developer)
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1200&lines=Hey!+It's+999!;Software+Developer;the+world+and+everything+in+it)](https://git.io/typing-svg)
