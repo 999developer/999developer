@@ -83,7 +83,7 @@ A complete platform designed for landscaping businesses, allowing project manage
 
 **Repositories**
 
-[Frontend Repository](https://github.com/maruchandepollo/front-ecostyle) • [Backend Repository](https://github.com/maruchandepollo/backend-ecostyle)
+[Frontend Repository](https://github.com/999developer/front-ecostyle) • [Backend Repository](https://github.com/999developer/backend-ecostyle)
 
 ---
 
@@ -95,7 +95,7 @@ Mobile application developed to manage optical services, products and patient in
 
 **Repositories**
 
-[Frontend Repository](https://github.com/maruchandepollo/CrimsonEyes-App) • [Backend Repository](https://github.com/maruchandepollo/CrimsonEyes-backend)
+[Frontend Repository](https://github.com/999developer/CrimsonEyes-App) • [Backend Repository](https://github.com/999developer/CrimsonEyes-backend)
 
 ---
 
@@ -148,7 +148,7 @@ Professional internship project focused on inventory control, stock management a
 
 **Repository**
 
-[Pañol UDD Repository](https://github.com/maruchandepollo/panoludd)
+[Pañol UDD Repository](https://github.com/999developer/panoludd)
 
 ---
 
